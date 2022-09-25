@@ -3,7 +3,10 @@
  * Hardware components
  * Arduino Uno 
  * L298 - Driver
- * stepper motor 
+ * stepper motor - Annimated Bipolar Stepper motor
+ * 
+ * Author : Sanghavi 
+ * Date : 25-09-2022
  */
  
 #include <Stepper.h>
